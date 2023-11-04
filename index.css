@@ -1,0 +1,89 @@
+.myName{
+    font-family: cursive;
+    color: rgb(90, 250, 58);
+    text-align: center;
+}
+
+.main-container{
+    margin: auto;
+    border-radius: 8px;
+    background-color: rgb(150, 150, 150);
+}
+
+.body-container{
+    background-color: rgb(19, 9, 2);
+}
+
+.academic-container{
+    background-color: rgb(10, 8, 5);
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.academic-title{
+    color: rgb(218, 225, 75);
+    padding-top: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.span-title-li{
+    display: flex;
+    align-items: center;
+    margin: 12px;
+    background-color: aliceblue;
+    padding-left: 10px;
+    width: fit-content;
+    border-radius: 15px;
+    color: rgb(101, 101, 208);
+}
+
+ul li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    color: rgb(250, 230, 230);
+    padding: 10px;
+}
+
+ul li p{
+    color: aquamarine;
+}
+
+.academic-logo-icon{
+    height: 30px;
+    margin: 6px;    
+    padding: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+hr{
+    margin-right: 10px;
+    border: 2px solid rgb(50, 50, 215);
+}
+
+.soft-skills-container{
+    margin: 20px;
+    background-color: rgb(90, 216, 174);
+    border-radius:10px;
+    color: black;
+}
+
+.soft-skills-title{
+    color: rgb(5, 5, 4);
+    margin-left: 10px;
+    font-size : 25px;
+    padding-top: 20px;
+    font-family: fantasy;
+}
+
+.soft-skills-container ul li {
+    color: rgb(12, 68, 198);
+}
+
+footer a{
+    margin: 10px;
+}
+
+footer a img{
+    margin: 20px;
+}
